@@ -1,0 +1,11 @@
+# created by virtualenv automatically
+*.txt
+*.log
+.venv/
+.DS_Store
+Thumbs.db
+*.tmp
+pyvenv.cfg
+.env
+__pycache__/
+*.pyc

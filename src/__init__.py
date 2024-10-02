@@ -1,0 +1,1 @@
+print("This package is written according to the conditions of the task and does'nt pretend to be mathematically reliable")
